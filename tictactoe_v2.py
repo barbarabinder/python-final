@@ -7,9 +7,10 @@ spiel_aktiv = True
 #spieler_aktuell = 'Stana'
 # Spielfeld als Liste erstellen
 spielfeld = [" ",
-             "1", "2", "3",
-             "4", "5", "6",
-             "7", "8", "9"]
+             colored("1", "on_white"), colored("2", "on_white"), colored("3", "on_white"),
+             colored("4", "on_white"), colored("5", "on_white"), colored("6", "on_white"),
+             colored("7", "on_white"), colored("8", "on_white"), colored("9", "on_white"),
+             ]
 
 # Spielfeld ausgeben
 def spielfeld_ausgeben():
@@ -107,10 +108,10 @@ while spiel_aktiv:
     if spielzug:
         # spielfeld[spielzug] = 'X'
         if spieler_aktuell is spieler1:
-            spieler_value = colored("x", "red", "on_white")
+            spieler_value = colored("x", "red", "on_black")
 
         else:
-            spieler_value = colored("0", "white", "on_red")
+            spieler_value = colored("0", "white", "on_black")
 
         spielfeld[spielzug] = spieler_value
         # aktuelles Spielfeld ausgeben
