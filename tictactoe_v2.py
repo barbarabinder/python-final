@@ -7,9 +7,9 @@ spiel_aktiv = True
 #spieler_aktuell = 'Stana'
 # Spielfeld als Liste erstellen
 spielfeld = [" ",
-             colored("1", "on_white"), colored("2", "on_white"), colored("3", "on_white"),
-             colored("4", "on_white"), colored("5", "on_white"), colored("6", "on_white"),
-             colored("7", "on_white"), colored("8", "on_white"), colored("9", "on_white"),
+             colored("1", "black", "on_white"), colored("2","black", "on_white"), colored("3", "black", "on_white"),
+             colored("4", "black", "on_white"), colored("5", "black", "on_white"), colored("6", "black", "on_white"),
+             colored("7", "black", "on_white"), colored("8", "black", "on_white"), colored("9", "black", "on_white"),
              ]
 
 # Spielfeld ausgeben
