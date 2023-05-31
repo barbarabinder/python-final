@@ -34,6 +34,7 @@ def player_input():
         if game_move == 'exit':
             # Spieler kann das Spiel mit "exit" beenden
             game_active = False
+            print(colored("\nA pity, goodbye!","magenta"))
             return
 
         error_message = generate_color_message("Your input must be a number between 1 and 9.")
