@@ -26,7 +26,7 @@ Sicherheit:
 Es sind keine Sicherheitslücken erkennbar. 
  
 
-Einhaltung von Standards: Grundsätzlich ja, bis auf folgende Warnungen:
+Einhaltung von Standards: Grundsätzlich ja, bis auf folgende Warnungen/Vorschläge, die ignoriert werden können, da der Code funktioniert:
 
 Line 29 : Either all return statements in a function should return an expression, or none of them should.
 Line 44 : Incompatible types in assignment (expression has type "int", variable has type "str")  [assignment]
