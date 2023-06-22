@@ -1,3 +1,5 @@
+#before running the code, save base.html in a folder named templates and save project.db in a folder named instance
+
 from flask import Flask, render_template, request, url_for, redirect
 from flask_sqlalchemy import SQLAlchemy
 
