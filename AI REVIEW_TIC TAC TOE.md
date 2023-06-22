@@ -77,10 +77,10 @@ Außerdem ist der menschliche Code generell etwas komplizierter entwickelt, bezi
 Funktionierendes „Error Handling“ war uns nicht möglich mit ChatGPT zu realisieren. Zudem bietet der menschliche Code ein paar extra Features an, wie eine „Exit“ Funktion oder eine kurze Begrüßung als Einleitung zum Spiel. 
 ChatGPT ist zwar in der Lage diese Feature mittels weiteren durchdachten „Prompts“ ebenso in den AI-Code zu integrieren, die tatsächliche Umsetzung bei gleichzeitigem Erhalt der Funktionalität gestaltete sich allerdings komplizierter. 
 
-**Methoden der Code-Generierung:** Welchen Input hast du zur Code-Generierung benutzt? Bekommst du ein anderes Ergebnis, wenn du die Anfrage anders formulierst?
-Der initiale Input hat wie folgt gelautet: 
+**Methoden der Code-Generierung:** Der initiale Input hat wie folgt gelautet: 
 
-„Write a simple tic tac toe game in python. The game should have a two player modus, it should be possible to enter a player name for each player, the game board should be displayed in the python sell, and the game outcome should be stated in the end”.
+_„Write a simple tic tac toe game in python. The game should have a two player modus, it should be possible to enter a player name for each player, the game board should be displayed in the python sell, and the game outcome should be stated in the end”._
+
 Bei anderen Formulierungen werden leicht unterschiedlich Code-Varianten generiert. Die Funktionalität bleibt aber immer erhalten. Grundsätzlich sticht aber heraus, dass die Codes bei weniger genaueren „Prompts“ nicht genau den Erwartungen entsprechen und dass je detaillierter die „Prompts“ sind, umso zieltreffender die Ergebnisse sind.  
 
 **Dokumentation**: Mit der initialen Formulierung war der generierte Code eher spärlich kommentiert und dokumentiert.
