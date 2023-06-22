@@ -1,7 +1,6 @@
 # AI REVIEW: TO-DO-LIST
 
-Folgendes Review analysiert die Coding Fähigkeiten von ChatGPT 3.5 für das Programmieren einer To-Do-List Web-App anhand sieben Aspekten.  
-Dabei wird der AI-generierte Code mit dem menschlich entwickelten verglichen. 
+Folgendes Review analysiert die Coding Fähigkeiten von ChatGPT 3.5 für das Programmieren einer To-Do-List Web-App anhand sieben Aspekten.  Dabei wird der AI-generierte Code mit dem menschlich entwickelten verglichen. 
 
 **Funktionalität:** Der generierte Code ist voll funktionstüchtig. ChatGPT 3.5 konnte mit einem detaillierten Prompt alle Erwartungen/Requirements gänzlich erfüllen. Auch die Database mit SQLAlchemy funktioniert ohne Probleme.
 
