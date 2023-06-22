@@ -44,4 +44,3 @@ Tests:
 Es scheinen keine automatischen Tests vorhanden zu sein, aber ich bin sicher exploratory tests wurden manuell durchgeführt um sicherzustellen, dass alle Komponenten funktionieren.
  
 
-Skalierbarkeit: Es könnten mehr Generatoren verwendet werden, yield statt return zum Beispiel (I think..) 
