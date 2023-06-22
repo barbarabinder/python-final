@@ -1,4 +1,4 @@
-# AI REVIEW TIC TAC TOE
+# AI REVIEW: TIC TAC TOE
 
 Folgendes Review analysiert die Coding Fähigkeiten von ChatGPT 3.5 für das Programmieren eines Tic-Tac-Toe Spiels anhand sieben Aspekten.  Dabei wird der AI-generierte Code mit dem menschlich Entwickelten verglichen. 
 
