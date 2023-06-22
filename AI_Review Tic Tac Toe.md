@@ -9,7 +9,7 @@ Somit stimmt die Ausgabe grundsätzlich mit den gestellten Erwartungen überein,
 Übersichtlichkeit und Struktur: Der Code ist logisch strukturiert, übersichtlich und leicht verständlich. 
 Es werden klar benannte Funktionen in sinnvoller Reihenfolge für die notwendigen Operationen verwendet sowie Abstände zwischen IF-blöcken oder Loops integriert, die für eine klare visuelle Übersicht sorgen. 
 
-**Effizienz: **Der Code weist keine Redundanzen auf und ist im Vergleich zu unserem selbst entwickelten Programm teilweise sogar effizienter gestaltet. 
+**Effizienz:** Der Code weist keine Redundanzen auf und ist im Vergleich zu unserem selbst entwickelten Programm teilweise sogar effizienter gestaltet. 
 Am besten lässt sich dies im Vergleich des „Win-Checks“ und des „Tie Checks“ illustrieren: 
 
 Selbstentwickelt: 
