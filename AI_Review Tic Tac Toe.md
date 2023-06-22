@@ -1,6 +1,6 @@
 # AI REVIEW TIC TAC TOE
 
-Folgendes Review analysiert die Coding Fähigkeiten von ChatGPT 3.5 für das Programmieren eines Tic-Tac-Toe Spiels anhand sieben Aspekten.  Dabei wird der AI-generierte Code mit dem menschlich entwickelten verglichen. 
+Folgendes Review analysiert die Coding Fähigkeiten von ChatGPT 3.5 für das Programmieren eines Tic-Tac-Toe Spiels anhand sieben Aspekten.  Dabei wird der AI-generierte Code mit dem menschlich Entwickelten verglichen. 
 
 **Funktionalität:** ChatGPT 3.5 ist in der Lage einen voll-funktionsfähigen code für ein simples Tic-Tac-Toe Spiel zu generieren, der alle unsere vordefinierten Requirements (Spielfeld in Python Shell ausgeben, Zwei-Spieler Modus, Spielernamen eingeben) erfüllt. 
 Somit stimmt die Ausgabe grundsätzlich mit den gestellten Erwartungen überein, obwohl der Stil des Codes zum größten Teil starke Unterschiede aufweist. 
