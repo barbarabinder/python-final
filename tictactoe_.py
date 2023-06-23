@@ -11,11 +11,14 @@ time.sleep(1)
 game_active = True
 
 # Gameboard als Liste erstellen
-gameboard = [" ",
+
+default_gameboard = [" ",
              colored("1", "black", "on_white"), colored("2","black", "on_white"), colored("3", "black", "on_white"),
              colored("4", "black", "on_white"), colored("5", "black", "on_white"), colored("6", "black", "on_white"),
              colored("7", "black", "on_white"), colored("8", "black", "on_white"), colored("9", "black", "on_white"),
              ]
+
+gameboard = default_gameboard[:]
 
 # Gameboard Ausgabe definieren
 def display_gameboard():
@@ -161,7 +164,15 @@ while game_active:
         # Kontrolle, ob tie
         tie = tie_check()
         if tie:
-            print(colored("\nIt's a tie! Do it again?", "magenta"))
-            game_active = False
+            
+            play_again = input(colored("\nIt's a tie! Do it again? Y/N ?", "magenta")).lower()
+            # spiel zurücksetzten
+            if (play_again == "y"):
+                gameboard = default_gameboard[:]
+            else:
+                game_active = False
+
+            
+
         # Spieler wechseln
         switch_player(player1, player2)
