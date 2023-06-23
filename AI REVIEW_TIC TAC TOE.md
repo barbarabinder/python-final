@@ -87,5 +87,5 @@ Bei anderen Formulierungen werden leicht unterschiedlich Code-Varianten generier
 **Dokumentation**: Mit der initialen Formulierung war der generierte Code eher spärlich kommentiert und dokumentiert.
 Nach einer weiteren Anweisung bzw. „Prompt“, in der um genauere Erklärungen bzw. Dokumentierung des Codes in Form von Kommentaren gebeten wurde, ist das Endergebnis allerdings gänzlich, ausführlich und verständlich kommentiert. 
 
-**Zusammenfassend** wurde ersichtlich, dass ChatGPT 3.5 mehr als ausreichend Coding-Fähigkeiten beherrscht, um ein simples Programm wie ein Tic-Tac-Toe Spiel ausreichend qualitativ zu entwickeln (mit Ausnahme des Error Handlings).
+**Zusammenfassend** wurde ersichtlich, dass ChatGPT 3.5 mehr als ausreichend Coding-Fähigkeiten beherrscht, um ein simples Programm wie ein Tic-Tac-Toe Spiel qualitativ zu entwickeln (mit Ausnahme des Error Handlings).
 ChatGPT 4.0 würde mutmaßlich nochmal deutlich ausgeprägtere Fähigkeiten aufzeigen. 
